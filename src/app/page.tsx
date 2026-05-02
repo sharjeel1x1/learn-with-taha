@@ -133,10 +133,10 @@ const pricingPlans = [
   {
     id: 'p1',
     name: 'Premium',
-    price: '$99.9',
+    price: '$85',
     period: '/month',
     description: 'Intensive program for dedicated students',
-    features: ['12 Classes per Month', '1-on-1 Sessions', 'Full Tajweed & Hifz & Translate', 'Weekly Progress Reports', 'Priority Scheduling', 'Ijazah Preparation'],
+    features: ['30 Classes per Month', '1-on-1 Sessions', 'Full Tajweed & Hifz & Translate', 'Weekly Progress Reports', 'Priority Scheduling', 'Ijazah Preparation'],
     highlighted: false,
     badge: null,
     order: 2,
